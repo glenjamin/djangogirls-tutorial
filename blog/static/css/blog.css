@@ -7,8 +7,3 @@ body {
 h1 a {
   color: rgb(255, 176, 0);
 }
-
-h1 {
-  padding-bottom: 20px;
-  border-bottom: 1px solid #ccc;
-}
